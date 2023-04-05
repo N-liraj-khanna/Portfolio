@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://lirajkhanna.vercel.app/sitemap.xml
+Host: https://lirajkhanna.vercel.app
